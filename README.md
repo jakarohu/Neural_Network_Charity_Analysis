@@ -32,5 +32,9 @@ Finally, using my knowledge of TensorFlow, I will optimize my model in order to 
 ![Eval](https://github.com/jakarohu/Neural_Network_Charity_Analysis/blob/main/Resources/Eval.jpg)
 ![Eval2](https://github.com/jakarohu/Neural_Network_Charity_Analysis/blob/main/Resources/Eval2.jpg)
 
+### Compiling, Training, and Evaluating the Model Optimized
+![SeqModOpt](https://github.com/jakarohu/Neural_Network_Charity_Analysis/blob/main/Resources/SeqModOpt.jpg)
+![EvalOpt](https://github.com/jakarohu/Neural_Network_Charity_Analysis/blob/main/Resources/EvalOpt.jpg)
+
 ## Summary
 None of the optimization attempts in this analysis were able to produce a model with a predictive accuracy level of 75% or higher. With the variations of increasing the epochs, removing variables, adding an additional hidden layer, and/or increasing/decreasing the neurons, the changes were minimal.  Without a much more in-depth study of deep learning I would only be guessing to provide a recommendation for how a different model could solve the classification problem.
