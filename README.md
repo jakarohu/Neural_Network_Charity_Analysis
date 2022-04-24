@@ -28,6 +28,7 @@ Finally, using my knowledge of TensorFlow, I will optimize my model in order to 
 * What variable(s) are neither targets nor features, and should be removed from the input data? EIN and NAME
 
 ### Compiling, Training, and Evaluating the Model
+![SeqMod](https://github.com/jakarohu/Neural_Network_Charity_Analysis/blob/main/Resources/SeqMod.jpg)
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 * Were you able to achieve the target model performance?
 * What steps did you take to try and increase model performance?
